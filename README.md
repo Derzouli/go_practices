@@ -2,6 +2,7 @@
 Learn go with exercices
 
 starting_point
+Write Hello world
 
 1/ How to write test ?
 
